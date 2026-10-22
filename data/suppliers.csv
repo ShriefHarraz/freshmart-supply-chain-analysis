@@ -1,0 +1,41 @@
+Supplier_ID,Supplier_Name,Supplier_Category,Payment_Terms
+SUP001,Supplier 01,Beverages,Net 60
+SUP002,Supplier 02,Household,Net 30
+SUP003,Supplier 03,Beverages,Net 30
+SUP004,Supplier 04,Food,Net 30
+SUP005,Supplier 05,Beverages,Net 45
+SUP006,Supplier 06,Mixed,Net 30
+SUP007,Supplier 07,Personal Care,Net 45
+SUP008,Supplier 08,Mixed,Net 30
+SUP009,Supplier 09,Personal Care,Net 45
+SUP010,Supplier 10,Personal Care,Net 30
+SUP011,Supplier 11,Beverages,Net 60
+SUP012,Supplier 12,Food,Net 30
+SUP013,Supplier 13,Personal Care,Net 30
+SUP014,Supplier 14,Beverages,Net 60
+SUP015,Supplier 15,Mixed,Net 45
+SUP016,Supplier 16,Food,Net 60
+SUP017,Supplier 17,Beverages,Net 30
+SUP018,Supplier 18,Personal Care,Net 30
+SUP019,Supplier 19,Personal Care,Net 60
+SUP020,Supplier 20,Mixed,Net 60
+SUP021,Supplier 21,Mixed,Net 45
+SUP022,Supplier 22,Personal Care,Net 60
+SUP023,Supplier 23,Mixed,Net 45
+SUP024,Supplier 24,Mixed,Net 45
+SUP025,Supplier 25,Beverages,Net 60
+SUP026,Supplier 26,Personal Care,Net 45
+SUP027,Supplier 27,Household,Net 30
+SUP028,Supplier 28,Household,Net 60
+SUP029,Supplier 29,Personal Care,Net 60
+SUP030,Supplier 30,Beverages,Net 45
+SUP031,Supplier 31,Personal Care,Net 30
+SUP032,Supplier 32,Household,Net 30
+SUP033,Supplier 33,Household,Net 45
+SUP034,Supplier 34,Household,Net 60
+SUP035,Supplier 35,Food,Net 30
+SUP036,Supplier 36,Beverages,Net 30
+SUP037,Supplier 37,Personal Care,Net 60
+SUP038,Supplier 38,Beverages,Net 60
+SUP039,Supplier 39,Beverages,Net 30
+SUP040,Supplier 40,Personal Care,Net 45

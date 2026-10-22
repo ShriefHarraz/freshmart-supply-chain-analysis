@@ -1,0 +1,11 @@
+file,rows,columns
+demand.csv,12000,4
+inventory.csv,10000,11
+products.csv,133,9
+purchase_orders.csv,3500,9
+replenishment.csv,5000,9
+sales.csv,20000,8
+stores.csv,20,6
+suppliers.csv,40,4
+transfers.csv,2000,6
+waste.csv,4000,7

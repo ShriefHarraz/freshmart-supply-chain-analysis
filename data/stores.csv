@@ -1,0 +1,21 @@
+Store_ID,Store_Name,City,Country,Store_Type,Store_Size
+S001,FreshMart Abu Dhabi 1,Abu Dhabi,UAE,Supermarket,12000
+S002,FreshMart Dubai 1,Dubai,UAE,Supermarket,5000
+S003,FreshMart Sharjah 1,Sharjah,UAE,Hypermarket,12000
+S004,FreshMart Doha 1,Doha,GCC,Supermarket,5000
+S005,FreshMart Riyadh 1,Riyadh,GCC,Supermarket,12000
+S006,FreshMart Jeddah 1,Jeddah,GCC,Hypermarket,9000
+S007,FreshMart Kuwait City 1,Kuwait City,GCC,Supermarket,12000
+S008,FreshMart Muscat 1,Muscat,GCC,Supermarket,7000
+S009,FreshMart Abu Dhabi 2,Abu Dhabi,UAE,Supermarket,7000
+S010,FreshMart Dubai 2,Dubai,UAE,Supermarket,12000
+S011,FreshMart Sharjah 2,Sharjah,UAE,Supermarket,5000
+S012,FreshMart Doha 2,Doha,GCC,Supermarket,9000
+S013,FreshMart Riyadh 2,Riyadh,GCC,Supermarket,7000
+S014,FreshMart Jeddah 2,Jeddah,GCC,Supermarket,7000
+S015,FreshMart Kuwait City 2,Kuwait City,GCC,Hypermarket,12000
+S016,FreshMart Muscat 2,Muscat,GCC,Hypermarket,5000
+S017,FreshMart Abu Dhabi 3,Abu Dhabi,UAE,Supermarket,7000
+S018,FreshMart Dubai 3,Dubai,UAE,Supermarket,7000
+S019,FreshMart Sharjah 3,Sharjah,UAE,Hypermarket,9000
+S020,FreshMart Doha 3,Doha,GCC,Supermarket,9000

@@ -1,0 +1,134 @@
+product_name,Product_ID,Total_waste,Total_Value
+"Milk FreshChoice 1",P0001,462,947.10
+"Pastry FreshChoice 1",P0128,433,6464.69
+"Cheese Golden Harvest 3",P0013,402,8325.42
+"Bread HomeCare 5",P0126,401,7995.94
+"Pastry AquaPlus 6",P0133,397,1730.92
+"Pastry HomeCare 5",P0132,386,9059.42
+"Pastry DailyBest 2",P0129,373,4065.70
+"Cheese FreshChoice 1",P0011,366,9464.76
+"Bread FreshChoice 1",P0122,364,4917.64
+"Bread Golden Harvest 3",P0124,357,9114.21
+"Yogurt HomeCare 5",P0010,355,10596.75
+"Yogurt DailyBest 2",P0007,353,9478.05
+"Cheese HomeCare 5",P0015,346,10418.06
+"Fruit PureLife 4",P0019,340,7408.60
+"Vegetables DailyBest 2",P0022,313,2798.22
+"Pastry PureLife 4",P0131,309,5710.32
+"Cheese PureLife 4",P0014,306,7206.30
+"Yogurt Golden Harvest 3",P0008,304,3860.80
+"Bread PureLife 4",P0125,277,6575.98
+"Yogurt PureLife 4",P0009,273,1269.45
+"Yogurt FreshChoice 1",P0006,261,2257.65
+"Bread AquaPlus 6",P0127,260,6263.40
+"Milk HomeCare 5",P0005,248,5002.16
+"Milk DailyBest 2",P0002,241,1426.72
+"Cheese DailyBest 2",P0012,219,845.34
+"Bread DailyBest 2",P0123,195,4340.70
+"Pastry Golden Harvest 3",P0130,177,2994.84
+"Milk Golden Harvest 3",P0003,169,3576.04
+"Milk PureLife 4",P0004,165,1417.35
+"Laundry PureLife 4",P0095,143,617.76
+"Cereals Golden Harvest 3",P0046,135,1371.60
+"Toothpaste Golden Harvest 3",P0118,134,333.66
+"Soft Drinks DailyBest 2",P0075,124,386.88
+"Fruit Golden Harvest 3",P0018,122,3040.24
+"Paper Products FreshChoice 1",P0098,122,2421.70
+"Rice AquaPlus 6",P0031,120,3356.40
+"Canned Food AquaPlus 6",P0043,120,492.00
+"Juice AquaPlus 6",P0073,118,2452.04
+"Pasta HomeCare 5",P0036,115,1828.50
+"Cooking Oil FreshChoice 1",P0050,114,1092.12
+"Toothpaste PureLife 4",P0119,114,2943.48
+"Pasta PureLife 4",P0035,113,3071.34
+"Laundry HomeCare 5",P0096,112,301.28
+"Cooking Oil AquaPlus 6",P0055,111,936.84
+"Soft Drinks HomeCare 5",P0078,111,2305.47
+"Cleaning HomeCare 5",P0090,110,3623.40
+"Sauces PureLife 4",P0059,106,2539.76
+"Water HomeCare 5",P0066,104,3530.80
+"Paper Products PureLife 4",P0101,104,1635.92
+"Soap DailyBest 2",P0111,104,906.88
+"Toothpaste DailyBest 2",P0117,104,752.96
+"Fruit FreshChoice 1",P0016,103,1091.80
+"Cleaning DailyBest 2",P0087,103,1649.03
+"Soap Golden Harvest 3",P0112,103,1341.06
+"Soap AquaPlus 6",P0115,103,1346.21
+"Rice HomeCare 5",P0030,102,3091.62
+"Pasta DailyBest 2",P0033,102,1946.16
+"Sauces DailyBest 2",P0057,101,771.64
+"Soap HomeCare 5",P0114,101,1242.30
+"Shampoo Golden Harvest 3",P0106,100,3042.00
+"Pasta AquaPlus 6",P0037,99,3370.95
+"Coffee FreshChoice 1",P0080,99,3246.21
+"Shampoo AquaPlus 6",P0109,99,1011.78
+"Rice PureLife 4",P0029,97,1786.74
+"Toothpaste AquaPlus 6",P0121,97,261.90
+"Coffee Golden Harvest 3",P0082,96,1598.40
+"Cleaning AquaPlus 6",P0091,96,3001.92
+"Rice Golden Harvest 3",P0028,95,1276.80
+"Water FreshChoice 1",P0062,95,564.30
+"Cleaning Golden Harvest 3",P0088,95,2077.65
+"Shampoo PureLife 4",P0107,95,2944.05
+"Paper Products DailyBest 2",P0099,94,468.12
+"Toothpaste HomeCare 5",P0120,94,1336.68
+"Rice DailyBest 2",P0027,93,2459.85
+"Canned Food DailyBest 2",P0039,93,592.41
+"Water DailyBest 2",P0063,93,896.52
+"Paper Products Golden Harvest 3",P0100,93,1826.52
+"Juice FreshChoice 1",P0068,92,2799.56
+"Cereals AquaPlus 6",P0049,91,1456.91
+"Coffee PureLife 4",P0083,91,137.41
+"Sauces FreshChoice 1",P0056,89,837.49
+"Sauces AquaPlus 6",P0061,89,854.40
+"Shampoo FreshChoice 1",P0104,89,2112.86
+"Fruit HomeCare 5",P0020,88,591.36
+"Cereals DailyBest 2",P0045,88,487.52
+"Water AquaPlus 6",P0067,88,600.16
+"Juice PureLife 4",P0071,88,1364.00
+"Laundry FreshChoice 1",P0092,88,916.08
+"Paper Products AquaPlus 6",P0103,88,2779.04
+"Paper Products HomeCare 5",P0102,87,2748.33
+"Coffee DailyBest 2",P0081,85,787.95
+"Cereals PureLife 4",P0047,84,2839.20
+"Juice HomeCare 5",P0072,83,533.69
+"Soft Drinks AquaPlus 6",P0079,83,1275.71
+"Canned Food FreshChoice 1",P0038,82,2510.84
+"Cereals FreshChoice 1",P0044,82,2809.32
+"Soft Drinks PureLife 4",P0077,82,1217.70
+"Soap PureLife 4",P0113,82,715.86
+"Vegetables HomeCare 5",P0025,81,1180.17
+"Rice FreshChoice 1",P0026,81,488.43
+"Juice Golden Harvest 3",P0070,81,2634.12
+"Cleaning FreshChoice 1",P0086,80,2473.60
+"Pasta FreshChoice 1",P0032,79,1122.59
+"Soft Drinks Golden Harvest 3",P0076,79,278.08
+"Coffee AquaPlus 6",P0085,79,448.72
+"Soap FreshChoice 1",P0110,79,1116.27
+"Vegetables PureLife 4",P0024,78,2403.96
+"Canned Food HomeCare 5",P0042,78,724.62
+"Cooking Oil Golden Harvest 3",P0052,78,112.32
+"Cooking Oil HomeCare 5",P0054,78,280.02
+"Water PureLife 4",P0065,78,226.98
+"Coffee HomeCare 5",P0084,77,283.36
+"Laundry DailyBest 2",P0093,77,622.16
+"Toothpaste FreshChoice 1",P0116,77,2537.15
+"Canned Food Golden Harvest 3",P0040,76,1629.44
+"Vegetables FreshChoice 1",P0021,75,646.50
+"Cereals HomeCare 5",P0048,75,1897.50
+"Soft Drinks FreshChoice 1",P0074,75,234.75
+"Cleaning PureLife 4",P0089,74,1758.98
+"Vegetables Golden Harvest 3",P0023,71,1047.96
+"Sauces Golden Harvest 3",P0058,71,935.78
+"Cooking Oil PureLife 4",P0053,70,625.80
+"Pasta Golden Harvest 3",P0034,69,1669.11
+"Juice DailyBest 2",P0069,65,910.65
+"Laundry Golden Harvest 3",P0094,65,1188.20
+"Laundry AquaPlus 6",P0097,65,1477.45
+"Fruit DailyBest 2",P0017,64,428.80
+"Canned Food PureLife 4",P0041,64,2086.40
+"Shampoo HomeCare 5",P0108,62,1713.68
+"Shampoo DailyBest 2",P0105,60,2047.20
+"Cooking Oil DailyBest 2",P0051,55,1159.40
+"Water Golden Harvest 3",P0064,54,1539.54
+"Sauces HomeCare 5",P0060,51,165.75
